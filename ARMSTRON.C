@@ -1,3 +1,6 @@
+// Program to check whether the entered number is armstrong number or not
+// Created by Nihar Anant Koli
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
@@ -17,9 +20,9 @@ void main()
      num=num/10;
    }
    if(sum==a)
-   printf("\n\n it is an armstrong number");
+   printf("\n\n It is an armstrong number");
    else
-   printf("\n\n it is not an armstrong number");
+   printf("\n\n It is not an armstrong number");
 
   getch();
 }
