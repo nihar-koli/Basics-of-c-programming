@@ -1,3 +1,6 @@
+//Program to count no of vowels in given string
+//Created by Nihar Anant koli
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
