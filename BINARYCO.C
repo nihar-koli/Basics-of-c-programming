@@ -1,3 +1,5 @@
+//Program to convert Decimal number to Binary number
+
 #include<stdio.h>
 #include<conio.h>
 #include<math.h>
