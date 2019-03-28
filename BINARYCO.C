@@ -1,4 +1,5 @@
 //Program to convert Decimal number to Binary number
+//Created by Nihar Anant Koli
 
 #include<stdio.h>
 #include<conio.h>
