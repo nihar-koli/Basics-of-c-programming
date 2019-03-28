@@ -20,9 +20,9 @@ void main()
      num=num/10;
    }
    if(sum==a)
-   printf("\n\n It is an armstrong number");
+   printf("\n\n %d is an armstrong number",a);
    else
-   printf("\n\n It is not an armstrong number");
+   printf("\n\n %d is not an armstrong number",a);
 
   getch();
 }
