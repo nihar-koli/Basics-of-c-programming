@@ -1,4 +1,5 @@
 //Program to check character entered is alphabet or number or special character
+//Created by Nihar Anant Koli
 
 #include <stdio.h>
 #include <conio.h>
