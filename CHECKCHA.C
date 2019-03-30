@@ -1,3 +1,5 @@
+//Program to check character entered is alphabet or number or special character
+
 #include <stdio.h>
 #include <conio.h>
 void main()
