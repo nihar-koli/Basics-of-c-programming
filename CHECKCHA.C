@@ -24,7 +24,7 @@ void main()
    }
    else
    {
-      printf("\n\n Invalid character");
+      printf("\n\n Entered character is special character");
    }
    getch();
 }
