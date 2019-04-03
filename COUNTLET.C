@@ -9,7 +9,7 @@ void main()
    char str[50];
    int i,j,len,count;
       clrscr();
-      printf("\n\n enter any string : ");
+      printf("\n\n Enter any string : ");
 	 gets(str);
       len=strlen(str);
 	for(i=0;i<len;i++)
