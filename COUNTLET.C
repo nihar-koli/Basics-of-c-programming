@@ -1,4 +1,5 @@
 //Program to count occurance of letter in a string
+//Created by Nihar Anant Koli
 
 #include<stdio.h>
 #include<conio.h>
