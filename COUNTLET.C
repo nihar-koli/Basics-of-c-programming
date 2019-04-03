@@ -1,3 +1,5 @@
+//Program to count occurance of letter in a string
+
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
