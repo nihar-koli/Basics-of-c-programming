@@ -1,4 +1,4 @@
-//binary search
+//Program to find max and min digit out of entered number
 #include<stdio.h>
 #include<conio.h>
 void main()
