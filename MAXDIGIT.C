@@ -1,4 +1,6 @@
 //Program to find max and min digit out of entered number
+//created by Nihar Anant Koli
+
 #include<stdio.h>
 #include<conio.h>
 void main()
