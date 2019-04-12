@@ -1,4 +1,5 @@
 //Program to check if number is palindrome or not
+//Created by Nihar Anant Koli
 
 #include<stdio.h>
 #include<conio.h>
