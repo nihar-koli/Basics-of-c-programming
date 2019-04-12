@@ -1,3 +1,5 @@
+//Program to check if number is palindrome or not
+
 #include<stdio.h>
 #include<conio.h>
 void main()
